@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The full and true account of all the proceedings in Scotland. since the rebellion brgan [sic]. With the account of Cap. Grahames ingagement, as also their taking of Glascow [sic], and their inhumane cruelties acted there. With several particulars very satisfactory. As also the true relation of the last great and bloody fight between them and His Majesties forces under the command of His Grace the Duke of Monmouth. Nere Bothwel Brigg wherein the rebels were routed, and pursued into Hamelton Park, with the number of their slain, and many other remarkable circumstances.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03388</idno>
+            <idno type="STC">Wing F2297A</idno>
+            <idno type="STC">ESTC R177225</idno>
+            <idno type="EEBO-CITATION">51617659</idno>
+            <idno type="OCLC">ocm 51617659</idno>
+            <idno type="VID">175234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175234)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2723:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The full and true account of all the proceedings in Scotland. since the rebellion brgan [sic]. With the account of Cap. Grahames ingagement, as also their taking of Glascow [sic], and their inhumane cruelties acted there. With several particulars very satisfactory. As also the true relation of the last great and bloody fight between them and His Majesties forces under the command of His Grace the Duke of Monmouth. Nere Bothwel Brigg wherein the rebels were routed, and pursued into Hamelton Park, with the number of their slain, and many other remarkable circumstances.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final blank leaf.</note>
+                  <note>Imperfect: print bleed with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bothwell Bridge, Battle of, 1679 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Sources.</term>
+               <term>Glasgow (Scotland) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175234:1"/>
+            <pb facs="tcp:175234:1" rendition="simple:additions"/>
+            <p>THE Full and true account of all the PROCEEDINGS in SCOTLAND.</p>
+            <p>ſince the REBELLION began.</p>
+            <p>With the Account of Cap. <hi>Grahames</hi> Ingage<g ref="char:EOLhyphen"/>ment, As alſo their taking of <hi>Glaſcow,</hi> and their Inhumane Cruelties acted there.</p>
+            <p>With ſeveral Particulars very Satisfactory.</p>
+            <p>As alſo the true relation of the laſt great and bloody Fight between them and His Majeſties Forces under the Command of His Grace the Duke of Monmouth.</p>
+            <p>Nere <hi>Bothwel Brigg</hi> Wherein the <hi>REBELS</hi> were Routed, and purſued into <hi>Hamelton Park,</hi> with the Number of their Slain, and many other Remarkable Circumſtances.</p>
+            <p>
+               <hi>LONDON,</hi> Printed 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175234:2"/>
+            <pb n="3" facs="tcp:175234:2"/>
+            <head>A full and true Account of the Cruelty of the Rebels in <hi>SCOTLAND.</hi>
+            </head>
+            <p>THe firſt breaking out of this the bellion was on the <hi>29th.</hi> of <hi>May</hi> laſt paſt, upon which day about 80 perſons well moun<g ref="char:EOLhyphen"/>ted came to <hi>Ruglau</hi> Market-Croſs, and there as an affront to His Majeſty and His Government burnt publickly ſeveral eſtabliſhed Acts of Parliament, As that of <hi>Supremacy,</hi> and that for <hi>ſup<g ref="char:EOLhyphen"/>preſſing field Conventicles,</hi> as that for <hi>Eſtabliſhing Prelacy,</hi> with the neceſſary order, and afterwards placed a ſcandalous Libel, or as they termed it a Declaration upon the Market-Croſs, and would have done the ſame at <hi>Glaſgou,</hi> but were prevented by His Majeſties Soldi<g ref="char:EOLhyphen"/>ers in Gariſon.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>The Declaration of the Rebels, in the very words as it was deſigned to have been put up by them at <hi>Glaſcow,</hi> and was actually put up at <hi>Rugland.</hi>
+                        </head>
+                        <p>As the Lord hath been pleaſed ſtill to keep and pre<g ref="char:EOLhyphen"/>ſerve his intereſt in the Land, by the Testimony of ſome faithful witneſſes from the Beginning, ſo in Our Days ſome have not been wanting, who, through the
+<pb n="4" facs="tcp:175234:3"/> greateſt of Hazards, had added their Teſtimonies to thoſe who have gone before them, by ſuffering Death, Baniſhment, Torturings, Finings, Forfeitures, Impriſonments, <hi>&amp;c.</hi> flowing from cruel and perfidious Adverſaries to the Church and Kingdome of our Lord Ieſus Chriſt in the Land. There<g ref="char:EOLhyphen"/>fore we owning the Intereſt of Christ according to the word of the Lord, and the National and ſolemn League and Co<g ref="char:EOLhyphen"/>venant, deſire to add Our Teſtimony to the Teſtimonies of the worthies that has gone before, (though unworthy, yet hoping as true Members of the Church of Chriſt in <hi>Scot<g ref="char:EOLhyphen"/>land)</hi> and that againſt all <hi>Things</hi> that has been done pre<g ref="char:EOLhyphen"/>judicial to his intereſt from the Beginning of the work of Re<g ref="char:EOLhyphen"/>formation in <hi>Scotland,</hi> eſpecially from the Year 1648, to the Year 1660. againſt the foregoing Acts.</p>
+                        <p>And for confirmation of this Our Teſtimony, We do here<g ref="char:EOLhyphen"/>by this day, being the 29th day of <hi>May</hi> 1679.Publickly Burn them at the Croſs of <hi>Glaſgou</hi> moſt juſtly, as they perfide<g ref="char:EOLhyphen"/>ouſly and Blaſphemouſly had Burnt Our Holy Covenants, through ſeveral Cities of the Covenanted Kingdomes. We are ready always to do it, if judgged Neceſſary, with all the faithf<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l Suffering Brethren in the Land.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This done, they gathered into a conſiderable body on <hi>Lanſdown Hill</hi> on <hi>Sunday</hi> following, of which Cap. <hi>Graham</hi> of <hi>Cleaver houſe</hi> having notice, drew out what force he had, <hi>viz.</hi> His own Troop of Horſe, and a Com<g ref="char:EOLhyphen"/>pany of Dragoones, and with an Engliſh reſolution went to Charge them. Upon his approach be found the Rebels to be 1500 ſtrong, who upon the diſcovery of his March towards them, ſent out two parties to Skirmiſh with him, the which he charged with ſuch bravery, that they preſently retreated to their Main
+<pb n="5" facs="tcp:175234:3"/> body, the which with like reſolution he attaked, Char<g ref="char:EOLhyphen"/>ging through the Enemies main body, and killing a very conſiderable number, but after the loſs of about 20 Dragooners, two Brigadiers, and eight of his own Troop, his own Horſe being ſhot under him, and his Cornet ſlain, he finding himſelf overpowerd by odds of number, thought fit to retreat, the which he did with the like gallantry, but in his way to <hi>Glaſgou,</hi> the Ruſticks of <hi>Strewin</hi> were aſſembled to oppoſe him, whereupon he charged through them and left 11 or 12 of them dead upon the place.</p>
+            <p>The next day (the Rebels-taking heart at this firſt ſucceſs) drew up their Forces againſt the City of <hi>Glaſ<g ref="char:EOLhyphen"/>gou,</hi> and aſſaulted it in two ſeveral places, but were beaten off with conſiderable loſs, whereupon the Dra<g ref="char:EOLhyphen"/>gooners and Horſe ſallyed out and fell upon their Rear, taking ſome Priſoners, and killing ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, but they encreaſing in number, and fortifying themſelves oblieged his Majeſties Forces at that time to Retreat, and again beſeiged the City aforeſaid, and after a ſharp diſpute, and brave defence, became Maſters thereof, at their firſt entrance, <hi>Iohn Balfour</hi> of <hi>Kinlock</hi> (who is inſti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by the Rebels as Major) holding up his hand, and with an impudent face proclaimed, <hi>This is the hand that murdered</hi> Sharp, meaning his Grace, the Lord Biſhop of St. <hi>Andrews,</hi> whom he had barba<g ref="char:EOLhyphen"/>rouſly Maſſacred, and likewiſe <hi>Haxſlone</hi> and ſome o<g ref="char:EOLhyphen"/>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of the Rebel made Proclamation that they fought againſt <hi>Supremacy</hi> and <hi>Prelacy:</hi> after which they pro<g ref="char:EOLhyphen"/>ceeded to farther Vill<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nies.</p>
+            <pb n="6" facs="tcp:175234:4"/>
+            <p>Firſt they robbed the Archbiſhop of <hi>Glaſgoues</hi> houſe, tore down his Tapiſtry Hangings, brake open his Cheſts and Trunks, and ſet his Sellor afloat with Beer and Wine after ſome of the principal had drank their fills, and in fine made a miſerable ſpoyl of all his Goods, no<g ref="char:EOLhyphen"/>thing being ſaved but a ſmall parcel of books, the which his Servants had conveyed to ſome Neighbours houſes, his Lordſhip, a Heaven doubtleſs had ordai<g ref="char:EOLhyphen"/>ned, was abſent, or elſe unqueſtioned he had been mur<g ref="char:EOLhyphen"/>dered by their cruel hands, after this they proceeded to the great Cathedral, and pulled down all the Or<g ref="char:EOLhyphen"/>naments, defacing ſeveral Monuments, of note, and exported the Communion Veſtments, the p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aving been timely conveyed away.</p>
+            <p>The next barbarous exploit in that City by theſe in<g ref="char:EOLhyphen"/>humane Rebels was, they plundered the Biſhop of <hi>Ar<g ref="char:EOLhyphen"/>giles</hi> houſe, and after a miſerable Havock t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they went to his Chappel, and their diggi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g from their ſi<g ref="char:EOLhyphen"/>lent Graves two of his Lordſhips children that had lately been interr'd, took up the Coffins, broke them open, and run their Swords through them ſeveral times and left the bodies of the poor infants above ground, as Monuments of their inhumane Villany and Cruelty.</p>
+            <p>Thus far went theſe Rebels, and loth to ſtop here, Crown'd all their Villanies with one more, in a Mer<g ref="char:EOLhyphen"/>chants great Hall, they finding his Majeſties Picture, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore it down, and after in an hundred pieces, thereby manifeſting their rebellious Pride, and vile eſteem of Majeſty that ſacred Order that Omnipotence deſignd to be his Viceroy here below.</p>
+            <p>Having given you a full Narrative of their Cruel
+<pb n="7" facs="tcp:175234:4"/> deeds, while in their Rendezvouze they held Rebellious and Lawleſs practiſes. Now I ſhall declare what good ſucceſs his Majeſties Army have had againſt them, ſome of the Rebels being got together in the Sheriff of <hi>Fife,</hi> began to ravage the Countrey, ſtealing and dri<g ref="char:EOLhyphen"/>ving away by force of Armes ſeveral hundred Horſes to unite and reinforce their Rebellious Accomplices, upon notice of which, and the Lord Chancellors com<g ref="char:EOLhyphen"/>ing over to give Orders to the Militia and Heritors rai<g ref="char:EOLhyphen"/>ſed for the King in thoſe parts: they made to <hi>Sterling</hi> where being met by the Earl of <hi>Murray's</hi> Deputy Stew<g ref="char:EOLhyphen"/>ard for the Lordſhip of <hi>Down</hi> and the Lord <hi>Elfingſtoun,</hi> near the narrow entrance or paſs of the town aforeſaid they were defeated and ſcattered, abundance of them being killed in puſuit, and about 100 of them taken Priſoner and brought into <hi>Sterling</hi> remaining there as yet Priſoners, And it is credibly reported that there is three or four of the twelve that murdered the Arch-Biſhop) amo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt thoſe that are taken, of the which we ſhall hereafter be better able to inform you.</p>
+            <p>After His Grace the Duke of <hi>Monmouth</hi> came over and Headed his Majeſties Army, all peoples fears be<g ref="char:EOLhyphen"/>gan to vaniſh, and of Graces ſo undoubted courage and Conduct, inflamed them with happy expectations, the which accordingly ſucceeded: for his Grace on Sunday morning the <hi>22th.</hi> of this inſtant <hi>Iune,</hi> drew up his Ma<g ref="char:EOLhyphen"/>jeſties Force in Barralia, in view of the Enemy, the River of <hi>Clide</hi> only intercepting, whereupon the Re<g ref="char:EOLhyphen"/>bels ſend over a Petition, that they would lay down their Arm and diſperſe themſelves, if they might have the Articles ſpecified in their Declaration fulfil'd, to
+<pb n="8" facs="tcp:175234:5"/> which his grace returnd anſwer, that it was contrary to the Laws of the Nation, and prejudicial to the Go<g ref="char:EOLhyphen"/>vernment, and that he neither could nor would grant their illegal demands, but if they would depoſite their Arms and ſubmit to the Kings mercy he would deſiſt to attacke them. The which they refuſing, His Grace Commanded the Cannon to ply againſt their Ranks, and Commanded a party party out <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o attacque <hi>Bothwel-Bridge,</hi> the which the Rebels had well fortyfied, the Party charging with ſo fierce a Reſolution, that at the firſt Or<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, the Rebels that were Poſted there fled, up<g ref="char:EOLhyphen"/>on which his Majeſties Forces paſſed over the Bridge, &amp; Charged the Rebels who were drawn up in Battalia with the advantage of a riſing Hill, whereupon the Rebels opening their Orders, diſcharged their Canon but to the little or no damage of his Majeſties Force: This done his Grace commanded the Army to advance, the which was done with ſuch bravery and Reſolution that at firſt Charge the Enemies main body was broke, and their wings of Horſe put to the rout, and in diſor<g ref="char:EOLhyphen"/>der fled to <hi>Hammilton</hi> Park, and their ſhel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red from the Engliſh valour in a Wood, upon which defeat his Grace drew up his Troops of Horſe, and incloſed the Wood and Park, and ordered his Lieutenant <hi>Duglaſs</hi> to en<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the wood aforeſaid, and therein killd a num<g ref="char:EOLhyphen"/>ber of the Rebels, and it is reported that in the Ba<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tel and purſuit there were one or two thouſand of the Re<g ref="char:EOLhyphen"/>bels <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ild, beſides many taken Priſoners, and that they are utterly broken and diſperſed. The loſs of our ſide is very inconfiderable counting the advantage the Re<g ref="char:EOLhyphen"/>bels had.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175234:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
